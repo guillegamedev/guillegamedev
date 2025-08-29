@@ -1,16 +1,644 @@
-## Hi there 👋
+![followers](https://img.shields.io/github/followers/yuebaix?style=social)
+![stars](https://img.shields.io/github/stars/yuebaix?style=social)
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=guillegamedev" />
+<br>
+
+## 👋Hola Gamedevs
+<h1 align="center"> 👋 Unreal Engine Game Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+
+### Here's my github stats:
+
+![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=guillegamedev&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guillegamedev&theme=radical)](https://git.io/streak-stats) 
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guillegamedev&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+
 
 <!--
-**guillegamedev/guillegamedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Visitantes
 -->
+### Languages I'm good at
+
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<!--
+ESPACIO ABOT ME
+-------------------------------------
+-->
+<br><br>
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<h2 align="left" font-weight="bold">About me</h2>  
+<br><br>
+
+
+
+
+
+
+
+
+<!--
+ESPACIO ABOT ME
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-->
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Tien+Huynh+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+</div>
+
+
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+
+- :credit_card: My full name is **Huỳnh Lê Thủy Tiên** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
+- :books: My major is **Software Engineering**
+- :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
+- :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
+- :monocle_face: I'm interested in coding, sleeping, and watching film
+- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
+- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=tienhuynh-tn&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+</div>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/>
+</div>
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+<p align="center">
+  <a href="mailto:tien.huynhlt.tn@gmail.com" >
+    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/tienhuynh-tn/" target="_blank">
+    <img align="center" alt="TienHuynh-TN | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
+      <img align="center" alt="TienHuynh-TN | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/_huynh.tien.5536_/" target="_blank">
+    <img align="center" alt="TienHuynh-TN | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn" target="_blank">
+    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+<p> 
+
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2021 Tien Huynh tienhuynh-tn
+</div>
+
+------
+
+Credit: [tienhuynh-tn](https://github.com/tienhuynh-tn)
+
+Last Edited on: 22/12/2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
+<h3 align="center">A passionate Programmer from Sri lanka</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
+</p>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working on **UA IT(JKH IT)**
+
+- 🌱 I’m currently learning **Devops**
+
+- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+
+- 💬 Ask me about **Java, Python, PHP and NodeJS**
+
+- 📫 How to reach me **supunnanayakkara01@gmail.com**
+
+- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+
+- ⚡ Fun fact **I think I'm funny**
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
+<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+</p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Achievements:</h3>
+
+[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
+<br><br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
+
+
+
+
+
+
+
+
+
+<h1><h1/>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ray0emma&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ray0emma&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+
+
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
+
+
+
+
+
+
+
+<h3 align="center">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/prasana"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prasana" /></a><a href="https://ko-fi.com/prasannabrabourame"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="prasannabrabourame" /></a></p>
+</br></br>
+
+
+### Currently Getting Familiar
+<code><a href="https://isocpp.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" /></a></code>
+<code><a href="https://www.arduino.cc/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="arduino logo" /></a></code>
+<code><a href="https://www.raspberrypi.org/"><img height="40" src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry logo" /></a></code>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22bow4kqejhha4clw3nrdw4cq&count=1)
+
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=huiishan99&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center"> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+  </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
+  </a> 
+</p>
+
+![](https://komarev.com/ghpvc/?username=huiishan99&color=brightgreen)
+
+</div>
+
+------
+Credit: [huiishan99](https://github.com/huiishan99)
+
+Last Edited on: 23/06/2024
+
+
+
+
+
+
+
+<div>
+
+<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
+
+
+
+
+
+
+
+
+ </div>
+    <h2 align="center">Used IDE's</h2>
+    <div align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
+</div>
+
+
+
+
+
+
+
+
+
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
+</p>
+<br>
+<br>
+
+
+
+
+Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
+
+
+
+
+
+
+
+
+
+<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular,vue,vuetify"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana"/></td>
+    </tr>
+</table>
+<br>
+
+------
+**Credits :** [codediaz](https://github.com/codediaz)
+
+**Last Edited on:** 06/04/2024
+
+
+
+
+
+```php
+<?php
+
+namespace AshBaker;
+
+class About extends Me
+{
+    public function getCurrentWorkplace()
+    {
+        return [
+            'workplace' => [
+                'company' => 'Qquicker',
+                'position' => 'Product Owner'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge()
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Vuejs::class,
+            Angular::class,
+            ReactNative::class,
+            TailwindCss::class,
+            Aws::class,
+        ];
+    }
+
+    public function getFutureGoal()
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
+
+
+
+<!-- Activity Graph card -->
+</br>
+</br>
+<h2>Activity Graph</h2>
+
+![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amangupta143&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
+![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
+![GitHub followers](https://img.shields.io/github/followers/amangupta143?style=flat&logo=github&color=05122A&labelColor=05122A)
+![Profile Views](https://komarev.com/ghpvc/?username=amangupta143&style=flat&labelolor=05122A&color=05122A)
+
+------
+Credit: [amangupta143](https://github.com/amangupta143) \
+Last Edited on: 12/07/2024
+
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+</div>
+
+
+
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
+
+
+<details align="center">
+
+<summary> <b> <samp> Light bonfire </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+
+Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
+
+<p align="center">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+  &nbsp; 
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
+  &nbsp; 
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/channel/UCbBb1mcQ3nG-5B5Md5wJXzw">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
+  &nbsp;
+  &nbsp;
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
+</p> 
+
+
+</samp>
+</details>
+
+----
+Credits: [TanZng](https://github.com/TanZng)
+
+Last Edited on: 31/08/2020
+
+
+
+
+
+
+
+
+Wanna nominate me as a <a href="https://stars.github.com/">GitHub Star</a> ? <a href="https://stars.github.com/nominate/">Here, you go !!</a> (My username is: BaseMax)
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+<b>Welcome !! </b><br/>
+Some things about me :<br/>
+
+
+---
+
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+----
+
+
+
+
+    </div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+
+
+
+ 
+ ### 📈 Activity Graph
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
