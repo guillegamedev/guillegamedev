@@ -1,29 +1,22 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-![followers](https://img.shields.io/github/followers/yuebaix?style=social)
-![stars](https://img.shields.io/github/stars/yuebaix?style=social)
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=guillegamedev" />
+![followers](https://img.shields.io/github/followers/guillegamedev?style=social)
+![stars](https://img.shields.io/github/stars/guillegamedev?style=social)
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=guillegamedev"/>
 
 <h3 align="center">GAMEPLAY PROGRAMMER IN C++ & UNREAL ENGINE | Gamedev Content Creator</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
-<p align="center"> 
-  
+
 <br>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<img align="left" alt="Coding" width="175" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"/>
+<img align="right" alt="Coding" width="175" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif"/>
 
-<div>
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-  
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-
-<div>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">About me</h2>  
-
+<h2 align="left" font-weight="bold">About me</h2>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br>
@@ -49,6 +42,7 @@
 ![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=guillegamedev&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guillegamedev&theme=radical)](https://git.io/streak-stats) 
 [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guillegamedev&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guillegamedev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -222,11 +216,6 @@ class About extends Me
     }
 }
 ```
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-### 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
