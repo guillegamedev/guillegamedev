@@ -11,12 +11,12 @@
 <img align="left" alt="Coding" width="175" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"/>
 <img align="right" alt="Coding" width="175" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif"/>
 
-<p align="center">Me fascina cómo la tecnología informática 🌐 ha traído cambios inesperados a nuestras vidas. Ser testigo de la expansión de la informática me llevó a considerar estudiar ingeniería de software desde muy joven, y mi entusiasmo ha crecido constantemente desde entonces. Además, me encanta explorar nuevas tecnologías 💻 y aprovecharlas para crear cosas geniales 🛠️</p>
+<p align="center">Me fascina el desarrollo de videojuegos 🌐 decidí estudiar esta carrera luego de participar en una Game Jam. Desde mis inicios decidí acompañar a otros gamedevs en su camino creando contenido para visibilizar como es esta increible profesion pero tambien darles visibilidad y la realidad de este mundo, y mi entusiasmo ha crecido constantemente desde entonces. Además, me encanta conocer personas, grabar videos y ayudar en lo que se me necesite 💻 ya e participado en variedad de eventos y ganado mucha experiencia como gamedev y creador de contenido en esta industria 🛠️</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">About me</h2>
+<h2 align="left" font-weight="bold">Sobre mi</h2>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br>
@@ -37,15 +37,26 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> Estadísticas de mi GitHub</h2>
 
+<div align=center>
+<div>
+    
 ![guiillegamedev GitHub stats](https://github-readme-stats.vercel.app/api?username=guillegamedev&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guillegamedev&theme=radical)](https://git.io/streak-stats) 
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guillegamedev&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+
+<div>
+
+<div align=center>
+<div>
+    
+![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guillegamedev&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+
+<div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Languages, Frameworks, and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Lenguajes, Frameworks, y Herramientas
 
 <table>
     <tr>
@@ -116,7 +127,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Mi actividad ( No todo se puede mostrar :) )
 
 [![guillegamedev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guillegamedev&theme=react-dark)](https://github.com/guillegamedev/github-readme-activity-graph)
 
@@ -212,7 +223,7 @@ class About extends Me
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Para más información, contactame via
 <p align="center">
   <a href="mailto:tien.huynhlt.tn@gmail.com" >
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
