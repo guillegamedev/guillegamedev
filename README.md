@@ -11,7 +11,7 @@
 <img align="left" alt="Coding" width="175" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"/>
 <img align="right" alt="Coding" width="175" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif"/>
 
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">Me fascina cómo la tecnología informática 🌐 ha traído cambios inesperados a nuestras vidas. Ser testigo de la expansión de la informática me llevó a considerar estudiar ingeniería de software desde muy joven, y mi entusiasmo ha crecido constantemente desde entonces. Además, me encanta explorar nuevas tecnologías 💻 y aprovecharlas para crear cosas geniales 🛠️</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -21,19 +21,19 @@
 
 <br>
 
-- 🔭 I’m currently working on **UA IT(JKH IT)**
+- 🔭 Actualmente estoy trabajando en contenido de **Desarrollo de videojuegos**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 Actualmente estoy trabajando **C++ y Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 Mis proyectos estan disponibles ademas de github en [guillegamedev's itch.io](https://guillegamedev.itch.io/)
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Charlemos de **Unreal Engine, C++ o cualquier area de gamedev**
 
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
+- 📫 Puedes escribirme por [**instagram**](https://www.instagram.com/guillegamedev/)
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 Si buscas mi CV, escribeme por [**LinkedIn**](https://www.linkedin.com/in/guillermofernandogomez/)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Un dato extra de mi **My goal is to be a "Unreal Engine Authorized Instructor and a referent content creator of gamedev in latam"**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -42,7 +42,6 @@
 ![guiillegamedev GitHub stats](https://github-readme-stats.vercel.app/api?username=guillegamedev&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guillegamedev&theme=radical)](https://git.io/streak-stats) 
 [![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guillegamedev&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
-[![guillegamedev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guillegamedev&theme=react-dark)](https://github.com/guillegamedev/github-readme-activity-graph)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -76,20 +75,10 @@
 </table>
 <br>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillegamedev&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=guillegamedev&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
-</div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=guillegamedev&theme=algolia&background=0d1117&hide_border=true" />
-</div>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> Currently Getting Familiar</h3>
+
 
 <code><a href="https://isocpp.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" /></a></code>
 <code><a href="https://www.arduino.cc/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="arduino logo" /></a></code>
@@ -124,6 +113,12 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
 <br>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+
+[![guillegamedev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guillegamedev&theme=react-dark)](https://github.com/guillegamedev/github-readme-activity-graph)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
