@@ -4,7 +4,7 @@
 ![stars](https://img.shields.io/github/stars/guillegamedev?style=social)
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=guillegamedev"/>
 
-<h3 align="center">GAMEPLAY PROGRAMMER IN C++ & UNREAL ENGINE | Gamedev Content Creator</h3>
+<h3 align="center">GAMEPLAY PROGRAMMER IN C++ & UNREAL ENGINE | GAMEDEV CONTENT CREATOR</h3>
 
 <br>
 
