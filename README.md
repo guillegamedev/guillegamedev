@@ -45,84 +45,55 @@
 ![guiillegamedev GitHub stats](https://github-readme-stats.vercel.app/api?username=guillegamedev&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guillegamedev&theme=radical)](https://git.io/streak-stats) 
 
-<div>
-
 <div align=center>
 <div>
     
 ![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guillegamedev&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 
-<div>
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Lenguajes, Frameworks, y Herramientas
+<div align=left>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Lenguajes, Frameworks y Herramientas
 
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,anaconda,opencv,java,php,laravel,cs,net,spring,go"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Principales:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=unreal,cpp,vscode,github,blender"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular,vue,vuetify"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">lenguages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cpp"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,gcp,aws,prometheus,terraform,azure,kubernetes"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Motores Graficos:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=unreal,unity,godot"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,git"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=rabbitmq,grafana,git,github,docker,figma,xd,idea,vscode,postman,linux"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Edicion:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=pr,"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Organizacion:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=notion,figma,obsidian,discord"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Arte:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=blender"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Aprendiendo:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=raspberrypi,arduino,docker,blender"/></td>
     </tr>
 </table>
-<br>
-
-
-
-
-
-
-<code><a href="https://isocpp.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cpp logo" /></a></code>
-<code><a href="https://www.arduino.cc/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="arduino logo" /></a></code>
-<code><a href="https://www.raspberrypi.org/"><img height="40" src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry logo" /></a></code>
-
-
-
-
-<p align="center"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
-  </a> 
-</p>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-
 <br>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
@@ -133,51 +104,108 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-```php
-<?php
 
-namespace AshBaker;
 
-class About extends Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Pequeño codigo
+
+```cpp
+/*
+Ejercicio de rata que aprende a salir del laberinto 3 caminos :)
+*/
+
+#include <iostream> //cin y cout
+#include <stdlib.h> //srand y rand
+#include <Windows.h> //system (pause,cls, sleep(2000)2 seg en milisegundo)
+#include <time.h> // agrega time
+
+using namespace std; //contenedor de identificadores
+
+//FUNCIONES
+
+int calcularNumeroRandom()
 {
-    public function getCurrentWorkplace()
-    {
-        return [
-            'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Product Owner'         
-            ]
-        ];
-    }
+    int random;
+    random = rand() % 3 + 1;
+    cout << "numero calculado random es: " << random << endl;
+    return random;
+}
 
-    public function getDailyKnowledge()
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
-        ];
-    }
+//PRINCIPAL
+int main()
+{
+    srand(time(NULL));//Seed
+    int caminoCorrecto = 3;
+    int caminoElegido = 0;
+    int random;
+    int intento = 1;
+    bool salidaEncontrada = false;
+    int tiempoUtilizado = 0;
+    cout << "Bienvenido al laberinto de la rata Cheese"  << endl;
 
-    public function getFutureGoal()
+    while(salidaEncontrada == false)
     {
-        return 'To contribute to open source.';
+        cout << "--------------------------------------------------" << endl;
+        cout << "CHEESE BUSCANDO SALIDA, INTENTO: " << intento << endl;
+        Sleep (2000);
+        random = calcularNumeroRandom();
+        caminoElegido = random;
+        cout << "numero guardado random es: " << caminoElegido << endl;
+        
+        //Calcular tiempo tardado
+        if(caminoElegido == 1)
+        {
+            tiempoUtilizado = tiempoUtilizado + 4;
+            cout << "Cheese fue al camino 1 (suma 4 min)" << endl;
+            cout << "Tiempo utilizado total: " << tiempoUtilizado << endl;
+
+        }
+        if(caminoElegido == 2)
+        {
+            tiempoUtilizado = tiempoUtilizado + 7;
+            cout << "Cheese fue al camino 2 (suma 7 min)" << endl;
+            cout << "Tiempo utilizado total: " << tiempoUtilizado << endl;
+        }
+        if(caminoElegido == 3)
+        {
+            tiempoUtilizado = tiempoUtilizado + 3;
+            cout << "Cheese fue al camino 3 (suma 3 min)" << endl;
+            cout << "Tiempo utilizado total: " << tiempoUtilizado << endl;
+        }
+
+        //Definir si es camino correcto
+        if(caminoCorrecto == caminoElegido)
+        {
+            salidaEncontrada = true;
+        }
+        else
+        {
+            cout << "Camino Incorrecto, Cheese buscara devuelta" << endl;
+            intento ++;
+        }
     }
+    cout << "--------------------------------------------------" << endl;
+    cout << "CHEESE ENCONTRO LA SALIDA" << endl;
+    cout << endl;
+    cout << "ESTADISTICAS CHEESE:" << endl;
+    cout << "-Necesito un total de: " << intento << " intentos" << endl;
+    cout << "-Tiempo utilizado total: " << tiempoUtilizado << endl;
+    return 0;
 }
 ```
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Te regalo una frase
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**My goal is to be a "Unreal Engine Authorized Instructor and a referent content creator of gamedev in latam"**</b> :)</em>
 
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
+
+
+
+<p align="right" > Created with 🧡 by <a href="https://www.instagram.com/guillegamedev">GuilleGamedev</a></p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -223,7 +251,7 @@ class About extends Me
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Para más información, contactame via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Para más información, contáctame via
 <p align="center">
   <a href="mailto:tien.huynhlt.tn@gmail.com" >
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
