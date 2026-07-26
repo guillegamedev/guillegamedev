@@ -11,32 +11,31 @@
 <img align="left" alt="Coding" width="175" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"/>
 <img align="right" alt="Coding" width="175" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif"/>
 
-<p align="center">¡Hola! Soy Guillermo Fernando Gomez, también conocido como @guillegamedev. Bienvenido a mi Github.
+<p align="center">
+¡Hola! Soy Guillermo Fernando Gomez, también conocido como @guillegamedev.
 
-Al ser un desarrollador de Unreal Engine realmente mi pipeline de trabajo se basa en utilziar sistemas de versiones en Perforce o Diversion por el peso de los archivos, así que te recomiendo pasarte por mi Itchio (mi portfolio real) una selección de los proyectos que considero representativos de mi crecimiento como desarrollador de videojuegos. Cada experiencia publicada fue elegida para mostrar mi evolución en sistemas de gameplay, desarrollo con Unreal Engine y experiencias interactivas.
+Soy desarrollador de videojuegos especializado en Unreal Engine y Gameplay Systems. Aunque GitHub no es mi plataforma principal debido al uso de Perforce y Diversion en mis proyectos, podés conocer mi trabajo y portfolio principal en itch.io.
 
-Desde proyectos universitarios y participaciones en Game Jams hasta experimentos técnicos e ideas originales, este portfolio refleja mi forma de aprender, iterar y seguir mejorando con cada desarrollo.</p>
+Allí encontrarás una selección de proyectos que representan mi crecimiento en desarrollo de videojuegos, Unreal Engine, gameplay y experiencias interactivas.</p>
+
+
+> Proyectos en Unreal Engine
+• Sistemas de Gameplay
+• Experiencias Interactivas
+• Participaciones en Game Jams
+ • Experimentos Técnicos
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">¿Mis Redes?</h2>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<h2 align="left" font-weight="bold">¿Donde Encontrarme?</h2>
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br>
 
-
 - •👨‍💻 Mis proyectos estan disponibles en [guillegamedev's itch.io](https://guillegamedev.itch.io/)
 - •📫 Puedes escribirme por [**instagram**](https://www.instagram.com/guillegamedev/)
-- •📄 Si buscas mi CV, escribeme por [**LinkedIn**](https://www.linkedin.com/in/guillermofernandogomez/)
-- •⚡ Un dato extra de mi **My goal is to be a "Unreal Engine Authorized Instructor and a referent content creator of gamedev in latam"**
-
-- QUE ESPERAR?
-- • Proyectos en Unreal Engine
-- • Sistemas de Gameplay
-- • Experiencias Interactivas
-- • Participaciones en Game Jams
-- • Experimentos Técnicos
+- •📄 Si buscas mi CV, contactame en [**LinkedIn**](https://www.linkedin.com/in/guillermofernandogomez/)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -45,11 +44,10 @@ Desde proyectos universitarios y participaciones en Game Jams hasta experimentos
 <div align=center>
 <div>
     
-![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guillegamedev&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
+![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=guillegamedev&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)</p>
 <div align=left>
+    
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Lenguajes, Frameworks y Herramientas
 
