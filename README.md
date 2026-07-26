@@ -11,30 +11,32 @@
 <img align="left" alt="Coding" width="175" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"/>
 <img align="right" alt="Coding" width="175" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif"/>
 
-<p align="center">¡Hola! Soy Guillermo Fernando Gomez, también conocido como @guillegamedev. Bienvenido a mi portfolio personal.
+<p align="center">¡Hola! Soy Guillermo Fernando Gomez, también conocido como @guillegamedev. Bienvenido a mi Github.
 
-Acá vas a encontrar una selección de los proyectos que considero representativos de mi crecimiento como desarrollador de videojuegos. Cada experiencia publicada fue elegida para mostrar mi evolución en sistemas de gameplay, desarrollo con Unreal Engine y experiencias interactivas.
+Al ser un desarrollador de Unreal Engine realmente mi pipeline de trabajo se basa en utilziar sistemas de versiones en Perforce o Diversion por el peso de los archivos, así que te recomiendo pasarte por mi Itchio (mi portfolio real) una selección de los proyectos que considero representativos de mi crecimiento como desarrollador de videojuegos. Cada experiencia publicada fue elegida para mostrar mi evolución en sistemas de gameplay, desarrollo con Unreal Engine y experiencias interactivas.
 
 Desde proyectos universitarios y participaciones en Game Jams hasta experimentos técnicos e ideas originales, este portfolio refleja mi forma de aprender, iterar y seguir mejorando con cada desarrollo.</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
-<h2 align="left" font-weight="bold">¿QUÉ VAS A ENCONTRAR?</h2>
+<h2 align="left" font-weight="bold">¿Mis Redes?</h2>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br>
 
-• Proyectos en Unreal Engine
-• Sistemas de Gameplay
-• Experiencias Interactivas
-• Participaciones en Game Jams
-• Experimentos Técnicos
 
-- 👨‍💻 Mis proyectos estan disponibles ademas de github en [guillegamedev's itch.io](https://guillegamedev.itch.io/)
-- 📫 Puedes escribirme por [**instagram**](https://www.instagram.com/guillegamedev/)
-- 📄 Si buscas mi CV, escribeme por [**LinkedIn**](https://www.linkedin.com/in/guillermofernandogomez/)
-- ⚡ Un dato extra de mi **My goal is to be a "Unreal Engine Authorized Instructor and a referent content creator of gamedev in latam"**
+- •👨‍💻 Mis proyectos estan disponibles en [guillegamedev's itch.io](https://guillegamedev.itch.io/)
+- •📫 Puedes escribirme por [**instagram**](https://www.instagram.com/guillegamedev/)
+- •📄 Si buscas mi CV, escribeme por [**LinkedIn**](https://www.linkedin.com/in/guillermofernandogomez/)
+- •⚡ Un dato extra de mi **My goal is to be a "Unreal Engine Authorized Instructor and a referent content creator of gamedev in latam"**
+
+- QUE ESPERAR?
+- • Proyectos en Unreal Engine
+- • Sistemas de Gameplay
+- • Experiencias Interactivas
+- • Participaciones en Game Jams
+- • Experimentos Técnicos
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -93,7 +95,7 @@ Desde proyectos universitarios y participaciones en Game Jams hasta experimentos
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Mi actividad ( No todo se puede mostrar :)
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Mi actividad - No todo se puede mostrar :)
 
 [![guillegamedev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guillegamedev&theme=react-dark)](https://github.com/guillegamedev/github-readme-activity-graph)
 
@@ -101,89 +103,15 @@ Desde proyectos universitarios y participaciones en Game Jams hasta experimentos
 
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Todo Inicia por un Hola Mundo
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Todo Inicia por un...
 
 ```cpp
-/*
-Ejercicio de rata que aprende a salir del laberinto 3 caminos :)
-*/
+#include <iostream>
 
-#include <iostream> //cin y cout
-#include <stdlib.h> //srand y rand
-#include <Windows.h> //system (pause,cls, sleep(2000)2 seg en milisegundo)
-#include <time.h> // agrega time
-
-using namespace std; //contenedor de identificadores
-
-//FUNCIONES
-
-int calcularNumeroRandom()
-{
-    int random;
-    random = rand() % 3 + 1;
-    cout << "numero calculado random es: " << random << endl;
-    return random;
-}
-
-//PRINCIPAL
 int main()
 {
-    srand(time(NULL));//Seed
-    int caminoCorrecto = 3;
-    int caminoElegido = 0;
-    int random;
-    int intento = 1;
-    bool salidaEncontrada = false;
-    int tiempoUtilizado = 0;
-    cout << "Bienvenido al laberinto de la rata Cheese"  << endl;
+    std::cout << "Hola Gamedevs!" << std::endl;
 
-    while(salidaEncontrada == false)
-    {
-        cout << "--------------------------------------------------" << endl;
-        cout << "CHEESE BUSCANDO SALIDA, INTENTO: " << intento << endl;
-        Sleep (2000);
-        random = calcularNumeroRandom();
-        caminoElegido = random;
-        cout << "numero guardado random es: " << caminoElegido << endl;
-        
-        //Calcular tiempo tardado
-        if(caminoElegido == 1)
-        {
-            tiempoUtilizado = tiempoUtilizado + 4;
-            cout << "Cheese fue al camino 1 (suma 4 min)" << endl;
-            cout << "Tiempo utilizado total: " << tiempoUtilizado << endl;
-
-        }
-        if(caminoElegido == 2)
-        {
-            tiempoUtilizado = tiempoUtilizado + 7;
-            cout << "Cheese fue al camino 2 (suma 7 min)" << endl;
-            cout << "Tiempo utilizado total: " << tiempoUtilizado << endl;
-        }
-        if(caminoElegido == 3)
-        {
-            tiempoUtilizado = tiempoUtilizado + 3;
-            cout << "Cheese fue al camino 3 (suma 3 min)" << endl;
-            cout << "Tiempo utilizado total: " << tiempoUtilizado << endl;
-        }
-
-        //Definir si es camino correcto
-        if(caminoCorrecto == caminoElegido)
-        {
-            salidaEncontrada = true;
-        }
-        else
-        {
-            cout << "Camino Incorrecto, Cheese buscara devuelta" << endl;
-            intento ++;
-        }
-    }
-    cout << "--------------------------------------------------" << endl;
-    cout << "CHEESE ENCONTRO LA SALIDA" << endl;
-    cout << endl;
-    cout << "ESTADISTICAS CHEESE:" << endl;
-    cout << "-Necesito un total de: " << intento << " intentos" << endl;
-    cout << "-Tiempo utilizado total: " << tiempoUtilizado << endl;
     return 0;
 }
 ```
